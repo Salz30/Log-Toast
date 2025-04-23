@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="button_website">Open Website</string>
+    <string name="button_location">Open Map</string>
+    <string name="button_share">Share_Text</string>
+    <string name="edit_website">http://developer.android.com</string>
+    <string name="edit_location">Agus Elektro</string>
+    <string name="edit_share">Ini text yang di share</string>
+</resources>
